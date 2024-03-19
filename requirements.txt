@@ -1,5 +1,10 @@
 datasets==2.18.0
 ipython==8.12.3
+jiwer==3.0.3
+librosa==0.10.0
 numpy==1.22.0
+pandas==1.5.3
+scipy==1.12.0
 torch==2.2.1
-TTS==0.22.0
+tqdm==4.66.2
+transformers==4.38.2
