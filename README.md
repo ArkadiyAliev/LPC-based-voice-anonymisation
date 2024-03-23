@@ -62,14 +62,6 @@ This project employs LPC for encoding speech signals, transforming LPC coefficie
 
 The experiments were conducted using the Common Voice dataset, focusing on the anonymization quality and the impact on speech intelligibility. Detailed results, including comparisons of time efficiency and memory usage between LPC and neural network-based methods, are documented in the final project report.
 
-## Contributions
-
-Contributions to the project are welcome. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 This project was conducted as part of the Machine Learning 2023 Course at Skoltech, Moscow, Russian Federation.
